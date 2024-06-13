@@ -1,0 +1,6 @@
+ID_Venta,ID_Sucursal,ID_Vehículo,ID_Cliente,ID_Tiempo,Cantidad_Alquilada,Precio_Total,Duración_Alquiler,Nombre_x,Dirección_x,Ciudad_x,Región_x,País_x,Marca,Modelo,Tipo,Año_x,Capacidad,Nombre_y,Apellidos,Fecha_Nacimiento,Sexo,Dirección_y,Ciudad_y,Región_y,País_y,Fecha,Año_y,Mes,Trimestre,Día_Semana
+1,101,201,301,401,1,100,5,Sucursal A,Calle A,Ciudad1,Región1,País1,Marca A,Modelo A,Coche,2019,5,Cliente A,Apellido A,1980-01-01,M,Dirección A,Ciudad1,Región1,País1,2022-01-01,2022,1,1,6
+2,102,202,302,402,2,200,10,Sucursal B,Calle B,Ciudad2,Región2,País1,Marca B,Modelo B,Moto,2020,2,Cliente B,Apellido B,1990-05-15,F,Dirección B,Ciudad2,Región2,País1,2022-01-02,2022,1,1,7
+3,103,203,303,403,1,150,7,Sucursal C,Calle C,Ciudad3,Región3,País1,Marca C,Modelo C,Caravana,2018,6,Cliente C,Apellido C,1985-08-20,M,Dirección C,Ciudad3,Región3,País1,2022-01-03,2022,1,1,1
+4,101,204,304,404,3,300,15,Sucursal A,Calle A,Ciudad1,Región1,País1,Marca D,Modelo D,Furgoneta,2021,3,Cliente D,Apellido D,2000-12-30,F,Dirección D,Ciudad4,Región4,País1,2022-01-04,2022,1,1,2
+5,104,201,301,405,1,120,8,Sucursal D,Calle D,Ciudad4,Región4,País1,Marca A,Modelo A,Coche,2019,5,Cliente A,Apellido A,1980-01-01,M,Dirección A,Ciudad1,Región1,País1,2022-01-05,2022,1,1,3
